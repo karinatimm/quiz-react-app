@@ -17,7 +17,7 @@ This project was completed by me as part of the course "The Ultimate React Cours
 ### Deployment
 
 Click this badge to visit the deployed React Quiz on Netlify:
-**[![Netlify Status](https://api.netlify.com/api/v1/badges/14635502-241e-4778-ac3a-0e8664b73e60/deploy-status)](https://travel-list-app-kartim.netlify.app)**
+**[![Netlify Status](https://api.netlify.com/api/v1/badges/5cb9b2bc-842a-4d9b-a6c6-8a912d256e37/deploy-status)](https://app.netlify.com/sites/quiz-react-app-kar/deploys)**
 
 ## System Requirements:
 
