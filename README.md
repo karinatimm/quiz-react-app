@@ -16,8 +16,8 @@ This project was completed by me as part of the course "The Ultimate React Cours
 
 ### Deployment
 
-Click this badge to visit the deployed React Quiz on Netlify:
-**[![Netlify Status](https://api.netlify.com/api/v1/badges/5cb9b2bc-842a-4d9b-a6c6-8a912d256e37/deploy-status)](https://app.netlify.com/sites/quiz-react-app-kar/deploys)**
+This project has been deployed on Vercel and is accessible at the following URL:
+**[React Quiz on Vercel](https://quiz-react-app-ten.vercel.app/)**
 
 ## System Requirements:
 
@@ -32,4 +32,4 @@ Linter Status: The project follows best practices and is linted using ESLint. En
 
 ### Linter status:
 
-[![ESLint Status](https://img.shields.io/badge/ESLint-Passing-brightgreen.svg)](https://github.com/karinatimm/Travel-list-react-app.git)
+[![ESLint Status](https://img.shields.io/badge/ESLint-Passing-brightgreen.svg)](https://github.com/karinatimm/quiz-react-app.git)
